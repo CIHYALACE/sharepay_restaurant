@@ -1,0 +1,5 @@
+attrs==23.2.0
+requests==2.31.0
+django==3.9.1
+djangorestframework
+django-cors-headers
